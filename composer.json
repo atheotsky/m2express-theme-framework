@@ -1,6 +1,6 @@
 {
-    "name": "m2express/base-theme",
-    "description": "Magento2express base simple theme based on the Magento Luma Theme.",
+    "name": "m2express/theme-framework",
+    "description": "Magento2express base framework theme based on the Magento Luma Theme.",
     "type": "magento2-theme",
     "license": "proprietary",
     "authors": [

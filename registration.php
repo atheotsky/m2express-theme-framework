@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::THEME,
-    'frontend/M2express/BaseTheme',
+    'frontend/M2express/Framework',
     __DIR__
 );
