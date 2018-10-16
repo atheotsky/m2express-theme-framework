@@ -13,8 +13,10 @@
             "email": "thanh@magento2express.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
+        "php": ">=5.5"
     },
     "autoload": {
         "files": [
